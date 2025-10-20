@@ -73,3 +73,10 @@ Built a star schema with:
 👤 Dimension Tables: Players, Matches
 
 Relationships:
+
+fact_batting_summary  ➜  dim_players  
+fact_bowling_summary  ➜  dim_players  
+fact_batting_summary  ➜  dim_match_summary  
+fact_bowling_summary  ➜  dim_match_summary
+
+#### Result → Clean, relational model for advanced DAX and visuals.
