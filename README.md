@@ -6,7 +6,7 @@ This end-to-end analytics project demonstrates a complete data journey — from 
 
 It uses real-world data from the T20 Cricket World Cup 2022, framed through a creative storyline:
 
-“Team Earth must select the best XI to face aliens on Planet Sporta — using pure data analytics.”
+“Team xxxx must select the best XI to face Team yyyy  — using pure data analytics.”
 
 This project showcases technical precision, analytical logic, and storytelling — a perfect example of how data can power decision-making in sports.
 
