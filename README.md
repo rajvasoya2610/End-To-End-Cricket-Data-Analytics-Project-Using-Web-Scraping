@@ -203,28 +203,6 @@ Showed how analytics can drive strategy in sports.
 | Data Source        | ESPN Cricinfo          |
 | File Formats       | CSV, PBIX              |
 
-## 📁 Cricket-Data-Analytics-T20
-│
-├── data/
-│   ├── dim_match_summary.csv
-│   ├── dim_players.csv
-│   ├── fact_batting_summary.csv
-│   └── fact_bowling_summary.csv
-│
-├── notebooks/
-│   └── cricket_data_cleaning.ipynb
-│
-├── dashboard/
-│   ├── Stage1.pbix
-│   ├── Stage2.pbix
-│   └── Final_T20_Dashboard.pbix
-│
-├── mockups/
-│   └── mockup.txt
-│
-└── README.md
-
-
 ## 🧩 Future Enhancements
 
 🔄 Add live API-based updates.
