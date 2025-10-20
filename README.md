@@ -24,3 +24,19 @@ This project showcases technical precision, analytical logic, and storytelling �
 🏆 Create an interactive dashboard to select Team Earth’s Best XI.
 
 This project showcases technical precision, analytical logic, and storytelling — a perfect example of how data can power decision-making in sports.
+
+## 🧠 Project Workflow
+
+### 1️⃣ Data Collection
+
+Used Bright Data’s Data Collector to scrape detailed match data.
+
+Extracted multiple datasets:
+
+🏟️ Match summaries
+
+🏏 Batting and bowling scorecards
+
+👥 Player profiles
+
+Exported data as CSVs for cleaning and transformation.
