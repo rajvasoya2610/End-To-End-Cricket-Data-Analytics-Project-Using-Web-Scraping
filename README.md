@@ -40,3 +40,36 @@ Extracted multiple datasets:
 👥 Player profiles
 
 Exported data as CSVs for cleaning and transformation.
+
+### 2️⃣ Data Cleaning (Python)
+
+Tech stack: Python, Pandas, NumPy, Regex
+
+Key cleaning steps:
+
+#### Example: Clean team names and handle reversed labels
+df['Team'] = df['Team'].str.replace('*', '', regex=False)
+df['match_id'] = df['Team1'] + "_vs_" + df['Team2']
+
+Tasks performed:
+
+Removed unwanted symbols and standardized names.
+
+Created match_id as a unique relational key.
+
+Merged datasets into clean CSVs:
+
+dim_match_summary.csv  
+dim_players.csv  
+fact_batting_summary.csv  
+fact_bowling_summary.csv
+
+### 3️⃣ Data Modeling (Power BI)
+
+Built a star schema with:
+
+🧮 Fact Tables: Batting, Bowling, Match Summary
+
+👤 Dimension Tables: Players, Matches
+
+Relationships:
