@@ -79,4 +79,4 @@ fact_bowling_summary  ➜  dim_players
 fact_batting_summary  ➜  dim_match_summary  
 fact_bowling_summary  ➜  dim_match_summary
 
-#### <b>Result → Clean, relational model for advanced DAX and visuals.<\B>
+#### <b>Result → Clean, relational model for advanced DAX and visuals.</b>
