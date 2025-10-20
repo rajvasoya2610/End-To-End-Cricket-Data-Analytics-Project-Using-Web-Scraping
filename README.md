@@ -1,13 +1,26 @@
 # 🏏 Cricket Data Analytics Project – T20 World Cup 2022 (End-to-End Power BI Dashboard)
 
+## 📘 Overview
+
+This end-to-end analytics project demonstrates a complete data journey — from web scraping and Python cleaning to Power BI modeling, DAX calculations, and interactive dashboard design.
+
+It uses real-world data from the T20 Cricket World Cup 2022, framed through a creative storyline:
+
+“Team Earth must select the best XI to face aliens on Planet Sporta — using pure data analytics.”
+
+This project showcases technical precision, analytical logic, and storytelling — a perfect example of how data can power decision-making in sports.
+
+
 ## 🎯 Objectives
 
-Collect and transform raw cricket data from ESPN Cricinfo using Bright Data.
+🕸️ Collect and transform cricket data from ESPN Cricinfo using Bright Data.
 
-Clean and model the data using Python (Pandas) and design a star schema in Power BI.
+🧹 Clean, structure, and merge data with Python (Pandas).
 
-Apply DAX to create meaningful performance metrics.
+🧩 Design a star schema data model in Power BI.
 
-Build an interactive dashboard to analyze player performances and select the Best XI.
+📊 Build DAX measures and visualizations for insight generation.
 
-Showcase real analytical thinking and business presentation skills in dashboard storytelling.
+🏆 Create an interactive dashboard to select Team Earth’s Best XI.
+
+This project showcases technical precision, analytical logic, and storytelling — a perfect example of how data can power decision-making in sports.
