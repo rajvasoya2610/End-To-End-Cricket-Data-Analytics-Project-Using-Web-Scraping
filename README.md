@@ -125,6 +125,10 @@ Player cards: Profile, Team, Batting Style, Key Stats
 
 Dynamic slicers: Filter by Team, Stage, or Role
 
+![Summarize Data]([https://github.com/rajvasoya2610/End-to-End-Customer-Churn-Analysis/blob/main/Rnadom_classifier.png](https://github.com/rajvasoya2610/End-To-End-Cricket-Data-Analytics-Project-Using-Web-Scraping/blob/main/Cricket%20Analysis.png)).
+
+![Top11 Players](https://github.com/rajvasoya2610/End-To-End-Cricket-Data-Analytics-Project-Using-Web-Scraping/blob/main/Top11.png).
+
 ## 🧩 Selection Logic & Insights
 
 ### 🏏 Final XI (Team Earth)
