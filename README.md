@@ -115,6 +115,8 @@ Anchors & Middle Order: Consistency-focused players
 
 All-Rounders & Bowlers: Wicket-takers with low economy
 
+![Summarize Data](https://github.com/rajvasoya2610/End-To-End-Cricket-Data-Analytics-Project-Using-Web-Scraping/blob/main/Cricket%20Analysis.png).
+
 #### 📊 Visuals:
 
 Scatter plots: Strike Rate vs Batting Average
@@ -125,7 +127,9 @@ Player cards: Profile, Team, Batting Style, Key Stats
 
 Dynamic slicers: Filter by Team, Stage, or Role
 
-![Summarize Data](https://github.com/rajvasoya2610/End-To-End-Cricket-Data-Analytics-Project-Using-Web-Scraping/blob/main/Cricket%20Analysis.png).
+
+
+![Top11 Players](https://github.com/rajvasoya2610/End-To-End-Cricket-Data-Analytics-Project-Using-Web-Scraping/blob/main/Top11.png).
 
 
 
