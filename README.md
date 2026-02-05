@@ -21,7 +21,7 @@ This project showcases technical precision, analytical logic, and storytelling �
 
 📊 Build DAX measures and visualizations for insight generation.
 
-🏆 Create an interactive dashboard to select Team Earth’s Best XI.
+🏆 Create an interactive dashboard to select Team xxxx Best XI.
 
 This project showcases technical precision, analytical logic, and storytelling — a perfect example of how data can power decision-making in sports.
 
